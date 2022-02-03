@@ -1,4 +1,4 @@
 # PROJETO-ANDROID
 Projeto Site Android desenvolvido em curso HTML-CSS
 
-https://thiagor34.github.io/PROJETO-ANDROID/#
+Acesse a visualização em: https://thiagor34.github.io/PROJETO-ANDROID/#
